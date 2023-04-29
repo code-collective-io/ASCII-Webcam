@@ -1,30 +1,4 @@
-30 days ago <- this was the commit for the day!!
-29 days ago <- this was the commit for the day!!
-28 days ago <- this was the commit for the day!!
-27 days ago <- this was the commit for the day!!
-26 days ago <- this was the commit for the day!!
-25 days ago <- this was the commit for the day!!
-24 days ago <- this was the commit for the day!!
-23 days ago <- this was the commit for the day!!
-22 days ago <- this was the commit for the day!!
-21 days ago <- this was the commit for the day!!
-20 days ago <- this was the commit for the day!!
-19 days ago <- this was the commit for the day!!
-18 days ago <- this was the commit for the day!!
-17 days ago <- this was the commit for the day!!
-16 days ago <- this was the commit for the day!!
-15 days ago <- this was the commit for the day!!
-14 days ago <- this was the commit for the day!!
-13 days ago <- this was the commit for the day!!
-12 days ago <- this was the commit for the day!!
-11 days ago <- this was the commit for the day!!
-10 days ago <- this was the commit for the day!!
-9 days ago <- this was the commit for the day!!
-8 days ago <- this was the commit for the day!!
-7 days ago <- this was the commit for the day!!
-6 days ago <- this was the commit for the day!!
-5 days ago <- this was the commit for the day!!
-4 days ago <- this was the commit for the day!!
-3 days ago <- this was the commit for the day!!
-2 days ago <- this was the commit for the day!!
-1 days ago <- this was the commit for the day!!
+ASCII Camera
+We have designed an innovative ASCII Webcam that utilizes the power of p5.js to convert real-time video feed into ASCII art. Our project was developed by our team of passionate tech enthusiasts who aimed to push the boundaries of what is possible with web-based applications.
+
+Our ASCII Webcam is an interactive web application that allows users to capture live video feed from their webcam and convert it into ASCII art in real-time. The application features a simple and intuitive interface that allows users to adjust the settings and customize the output according to their preferences.
